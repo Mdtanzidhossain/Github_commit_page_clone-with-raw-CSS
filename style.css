@@ -1,0 +1,524 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+/*body{
+
+	font-family: 'Open Sans', sans-serif;
+}*/
+
+a{
+	text-decoration: none; 
+}
+
+.container{
+
+	width: 1140px ;
+	margin: auto;	
+}
+
+
+/*header sec start here*/
+
+/*partone start here*/
+
+.header{
+   
+   width: 100%;
+   border: 1px;
+   background-color: #f7f7f7;
+
+}
+
+
+.partone{
+
+	padding: 30px;
+
+}
+.h3{}
+
+.fstline{
+
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	text-align: center;
+	color: #2b7fdd;
+
+}
+
+/*#fstlogo{
+	padding-top: 10px;
+}*/
+
+.slash{
+	color: #515357;
+}
+
+#secline{ 
+
+	color: #0767d6;
+	font-family: 'Open Sans', sans-serif;
+	padding-right: 425px;
+
+
+ }
+
+
+.headerbtn{
+
+	background-color:#f7f7f7;
+	padding: 1px 0px 1px 5px;
+	border-radius: 5px;
+	border: 1px solid #6e6d6d;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600;
+
+
+}
+
+
+
+
+
+.onenumber{
+
+	border-left: 1px solid #c9c9c9;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 1px;
+	background-color: #ffffff;
+	font-family: 'Open Sans', sans-serif;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+
+}
+.eightnumber{
+	border-left: 1px solid #c9c9c9;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 0px;
+	background-color: #ffffff;
+	font-family: 'Open Sans', sans-serif;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+
+}
+
+/*partone end here*/
+
+
+/*parttwo start here*/
+
+.buttons2ndrow{
+
+	margin: 0px 30px 10px 0px;
+	border: none;
+	font-family: 'Open Sans', sans-serif;
+	background-color:#f7f7f7 ;
+
+}
+
+.parttwo{
+	margin: 0px 0px 0px 50px;
+}
+
+.buttons2ndrow:hover {
+	font-weight: 600;
+	border-bottom: 2px solid #fa907d;
+}
+
+
+
+.issuenum{
+	border: 1px solid #e8eaec;
+	padding: 3px 7px;
+	background-color:#e8eaec ;
+	font-size: 10px;
+	border-radius: 50px;
+	margin-bottom: 5px;
+}
+
+
+/*parttwo end here*/
+
+/*header sec Ends here*/
+
+
+
+
+
+
+
+
+
+
+
+/*body sec strts here*/
+
+.body{
+
+	 width: 100%;
+   background-color: #ffffff;
+   margin: 25px 0px 0px 60px;
+
+}
+
+/*partthree start here*/
+
+.partthree{
+
+
+
+}
+
+
+.p3btn1{
+
+	border: none;
+	background-color: #ffffff;
+
+}
+
+#boldonep3{
+
+	font-weight: 600;
+	padding-right: 1px;
+}
+
+#branchbtn{
+
+	font-family: 'Open Sans', sans-serif;
+	color:#586069;
+	padding-right: 5px;
+
+}
+
+#tagbtn{
+
+	font-family: 'Open Sans', sans-serif;
+	color:#586069;
+}
+
+#mainbtn{
+
+	font-family: 'Open Sans', sans-serif;
+	color:#586069;
+	padding: 3px 10px;
+	border: 1px solid #c9c9c9;
+	border-radius: 8px;
+
+}
+
+#mainbtn:hover{
+
+	font-family: 'Open Sans', sans-serif;
+	color:#ffffff;
+	padding: 3px 10px;
+	border: 1px solid #c9c9c9;
+	border-radius: 8px;
+	background-color: #000000;
+
+}
+
+
+
+
+#tag{
+
+ margin-right: 170px;
+}
+
+
+.p3btn2{
+
+	border: none;
+	background-color: #ffffff;
+	padding: 10px 20px 10px 20px;
+	border: 1px solid #c9c9c9;
+	border-radius: 10px;
+	font-weight: 600;
+	color: #000000;
+
+}
+
+.p3btn2:hover {
+
+	border: none;
+	background-color:#2ea44f;
+	padding: 10px 20px 10px 20px;
+	border: 1px solid #2ea44f;
+	border-radius: 10px;
+	font-weight: 600;
+	color: #ffffff;
+
+}
+
+/*partthree end here*/
+
+/*partfour starts here*/
+
+
+.partfour{
+
+	padding-top: 20px;
+    /*border: 1px solid;
+    border-radius: 8px;
+    margin-top: 19px;*/
+}
+
+.dots{
+	margin-right: 170px;
+	border: 1px solid ##e0e3e6;
+	padding: 0px 3px;
+	background-color:#e0e3e6;
+	font-size: 12px;
+
+}
+
+.userfab{
+
+	font-family: 'Open Sans', sans-serif;
+	background-color:#f1f8ff;
+	padding: 20px 10px;
+	margin-right: 53px;
+}
+.updatedreame{
+
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+}
+
+.Apr6commits{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	font-size: 16px;
+
+
+}
+
+#number{
+
+	font-size: 10px;
+	padding-right: 10px;	
+} 
+
+.numseven{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600;
+	padding-left: 10px;
+}
+
+
+
+
+
+
+
+.tablecontent{
+
+	margin-top: 0px;
+}
+
+.table{
+
+	border-collapse: collapse;
+	padding: 10px 0px;
+   
+}
+
+.table tr{
+	border: 1px solid #ddd;
+  padding: 8px;
+
+}
+
+.table td{
+	 padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+
+.td1{
+
+	padding-right: 100px;
+	padding-left: 10px;
+	
+
+}
+
+.td2{
+
+	padding-right: 67px;
+	
+}
+
+.td3{
+
+	padding-right: 10px;
+	
+	
+}
+
+
+/*partfour end here*/
+
+
+
+/*flexpart starts here*/
+
+.threefour{
+
+	flex-basis: 65%;
+}
+.flexpatrs{
+
+	display: flex;
+}
+
+
+/*flexpart end here*/
+
+/*partfive starts here*/
+
+.partfive{
+	flex-basis: 35%;
+}
+
+
+/*partfive end here*/
+
+#about{
+
+	font-family: 'Open Sans', sans-serif;
+	padding-top: 10px;
+
+}
+
+#para{
+	font-family: 'Open Sans', sans-serif;
+	padding-top: 20px;
+	width: 70%;
+
+}
+
+.aboutbtns{
+
+	 padding-left: 20px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+
+}
+
+#btnclr{
+
+	background-color:#f1f8ff ;
+	color: #037ce1;
+	font-weight: 600;
+	border: 1px solid #f1f8ff ;
+	border-radius:12px ;
+	padding: 3px 6px;
+}
+
+.btnflex1{
+	display: flex;
+	padding-bottom:5px;
+}
+.btnflex2{
+	display: flex;
+}
+.cnn{
+
+	padding-bottom:5px;
+}
+
+.Pytorch{
+
+	padding-left: 6px;
+}
+.vsa{
+
+	padding-left: 6px;
+}
+
+
+.readme{
+
+	font-family: 'Open Sans', sans-serif;
+	color: #586069;
+}
+
+.underline{
+
+	
+	color: #ece9e9;
+
+	padding-bottom: 25px;
+}
+
+.rls{
+	font-family: 'Open Sans', sans-serif;
+	color: #000000;
+	padding-bottom: 25px;
+
+}
+
+.rls1{
+
+	border: 1px solid #e8eaec;
+	padding: 3px 7px;
+	background-color:#e8eaec ;
+	font-size: 10px;
+	border-radius: 50px;
+}
+
+
+.ptpm{
+
+	font-family: 'Open Sans', sans-serif;
+}
+
+.ltst{
+	font-family: 'Open Sans', sans-serif;
+	border: 1px solid #28a745;
+	background-color: #ffffff;
+	padding: 3px 8px;
+	border-radius: 20px;
+	margin-left: 8px;
+
+}
+
+.footerdate{
+
+	font-family: 'Open Sans', sans-serif;
+	color:#586069;
+
+}
+
+
+#tagicon{
+
+	color:#28a745 ;
+
+}
+
+
+
+/*body sec end here*/
+
+
+
+
+
+
+/*footer starts end here*/
+
+.lastline{
+	color: #ece9e9;
+}
+
+/*footer sec end here*/
